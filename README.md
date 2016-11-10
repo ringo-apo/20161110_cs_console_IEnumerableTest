@@ -1,4 +1,4 @@
 # 20161110_cs_console_IEnumerableTest
 
-IntArrayをIEnumableを継承することにより
+IntArrayにIEnumableを継承させることにより
 foreachが使えるようになる。
