@@ -1,0 +1,4 @@
+# 20161110_cs_console_IEnumerableTest
+
+IntArrayをIEnumableを継承することにより
+foreachが使えるようになる。
